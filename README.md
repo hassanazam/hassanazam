@@ -7,8 +7,8 @@
 
 <p align="center">
   <em>Software Engineer with 6+ years of experience crafting high-quality software products at innovative startups (backed by Kleiner Perkins, Sequoia).</em><br />
-  <em>Founding engineer of a Stripe-like payment gateway that processed payments worth 💰 <b>50 Million</b> in its first 3 months.</em><br />
-  <em>Currently architecting and building a next-gen, cloud-agnostic banking platform at DCore (DGlobal). Passionate about scalable systems and clean code.</em>
+  <em>Founding engineer of a Stripe-like payment gateway that processed payments worth 💰 <b>50 Million</b> in its first 3 months. <a href="https://foree.co/business" target="_blank">Foree Business</a></em><br />
+  <em>Currently architecting and building a next-gen, cloud-agnostic banking platform at <a href="https://dcore.tech" target="_blank">DCore</a> (DGlobal). Passionate about scalable systems and clean code.</em>
 </p>
 
 <h3 align="left">📬 Connect with Me:</h3>
